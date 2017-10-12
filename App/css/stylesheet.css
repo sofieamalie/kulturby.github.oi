@@ -1,0 +1,218 @@
+@font-face {
+    
+    font-family: "congratulations demo";
+    src: url(congratulations demop.ttf)
+}
+
+* {
+font-family: "congratulations DEMO";
+
+}
+
+.gamepinbag {
+	background-image: url(../images/vand.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+    width: 768px;
+    height: 1024px; 
+    margin: auto;}
+
+.forkertsvarbag {
+	background-image: url(../images/trappetæt.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+    width: 768px;
+    height: 1024px; 
+    margin: auto;}
+
+.spørgsmålbag {
+    background-image: url(../images/vand.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+    width: 768px;
+    height: 1024px; 
+    margin: auto;}
+
+.kort {
+     background-image: url(../images/kort.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+    width: 768px;
+    height: 1024px; 
+    margin: auto;
+}
+	 
+#gamepin {
+    font-size: 10em;
+    text-align: center;
+	padding-top: 10%;
+	color: #9BE59E;
+	margin-bottom: 5%;
+}
+
+h2 {
+    font-size: 5em;
+    border: 5px white solid;
+    text-align: center;
+    padding-top: 2%;
+	margin:auto;
+	width:40%;
+	color: #9BE59E;
+}
+input {
+    width: 40%;
+    height: 6em;
+	display: block;
+	margin: auto;
+	margin-bottom: 5%;
+	background-color: white;
+	
+}
+#spørgsmål {
+    font-size: 4em;
+    text-align: center;
+	padding-top: 10%;
+	color: #9BE59E;
+	margin-bottom: 15%;
+    
+}
+.svar {
+    list-style: none;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 20%;
+    display: block;
+    margin:auto;
+    font-family: "congratulations DEMO";
+}
+.svarli{
+    border: 1px solid white;
+    width: 70%;
+    padding: 5%;
+    background-color: #208940;
+    margin: 5%;
+    font-family: "congratulations DEMO";
+    color: #9BE59E;
+    list-style: none;
+    text-align: center;
+}
+
+#mulig {
+    font-size: 2em;
+}
+a {
+    text-decoration: none;
+}
+
+#rigtigsvartekst{
+    font-size: 5em;
+    text-align: center;
+    color: #9BE59E;
+    margin-bottom: 0;
+}
+.tillykebag {
+    background-image: url(../images/tillykke.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	 width: 768px;
+	 height: 1024px;
+    margin: auto;
+}
+#kaktus {
+    opacity: 80%;
+    display: block;
+    margin: auto;
+    height: 30%;     
+}
+#til {
+    font-size: 8em;
+    text-align: center;
+	padding-top: 10%;
+	color: #9BE59E;
+	margin-bottom: 15%;
+}
+#videre {
+    border: 1px solid white;
+    float: right;
+    margin-right: 10%;
+    margin-top: 15%;
+    font-size: 3em;
+    color: #9BE59E;
+    padding: 2%;
+    
+}
+.oversigtbag {
+    background-image: url(../images/sommerfugl.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	 width: 768px;
+	 height: 1024px; 
+    margin: auto;}
+
+#otekst {
+    font-size: 5em;
+    text-align: center;
+	padding-top: ;
+	color: #9BE59E;
+    margin: auto;
+    padding-top: 2%;
+	margin-bottom: 15%;
+}
+
+#hold {
+    list-style: none;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 20%;
+    display: block;
+    margin:auto;
+    font-family: "congratulations DEMO";
+}
+#stilling {
+    background-color: transparent;
+}
+
+#forkertsvar {
+    font-size: 6em;
+    text-align: center;
+	padding-top: 10%;
+	color: #9BE59E;
+	margin-bottom: 15%;
+}
+
+#prøvigen {
+    font-size: 4em;
+    display:flex;
+    margin: auto;
+    justify-content: center;
+    border: 4px solid white;
+    width: 40%;
+    padding: 40px;
+    color: #9BE59E;
+    
+}
+
+.klikspørgsmål {
+    width: 15%;
+    height: 20%;
+    margin-left: 35%;
+    
+}
+
+.oversigtknap{
+    width: 11%;
+    height: 5%;
+    padding-bottom: 5%;
+}
+#kortsymbol {
+  float: right;
+    margin-top: 12%;
+    margin-right: 2%;
+}
+
+
+#pokalsymbol {
+    float: right;
+    padding-right: 2%;
+    margin-top: 2%;
+}

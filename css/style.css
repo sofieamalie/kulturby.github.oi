@@ -1,0 +1,27 @@
+section{
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: auto;
+    
+}
+
+h1 { 
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.lol img
+{display: inline-block;
+vertical-align: middle;
+
+}
+.lol p{
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+div{
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
